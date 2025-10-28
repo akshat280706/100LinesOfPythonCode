@@ -89,6 +89,6 @@ def main():
         elif ch == "5":
             save_data(); print("Thank you! Data saved successfully."); break
         else: print("Invalid choice. Try again.")
-
+        
 if __name__ == "__main__":
     main()
